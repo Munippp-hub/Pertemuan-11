@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Button from "./../components/Button"
-import Button from "./../components/Input"
+import Input from "./../components/Input"
 
 function App() {
   const [email, setEmail] = useState("");
